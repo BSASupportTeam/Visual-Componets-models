@@ -12,5 +12,8 @@ Tovarna_4_0_v3 - workcell made of aluminum profiles;
 
 Trolley_1300x800x1920 - mobile cart;
 
+Five Liter Plastic Bottle - 5 Liter HDPE Plastic Storage Bottle
+
+
 
 
